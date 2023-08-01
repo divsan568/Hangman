@@ -1,1 +1,8 @@
-let inputChar = "
+let inputChar = ''
+let word = ''
+let incorrectLetters=[]
+let buttons = []
+let lives = 6
+let wordlist = ["dog", "cat", "bird", "fish", "rabbit", "snake", "deer", "goat", "sheep", "lion", "tiger", "wolf", "coyote",
+"bear", "lizard", "horse", "elephant", "cheetah", "frog", "camel", "donkey", "fox", "dolphin", "pig", "cow", "llama", "spider"]; 
+let alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
